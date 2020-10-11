@@ -5,12 +5,7 @@
      B. Tujuan :
      - Mempermudah proses verifikasi tagihan BBM sehingga lebih efisien
 
-2. Aplikasi E-Kontrak
-A. Masalah :
-B. 
-
-3. E-Struk
-A. Masalah
-B.
-
-4. Aplikasi Arsip Dokumen
+2. Akses Internet
+3. Aplikasi E-Kontrak
+4. E-Struk
+5. Aplikasi Arsip Dokumen
